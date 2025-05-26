@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Omar/Documents/NetBeansProjects/CommandPattern/src/commandpattern/Command.java</file>
+            <file>file:/C:/Users/Omar/Documents/NetBeansProjects/CommandPattern/src/commandpattern/TurnOnCommand.java</file>
+            <file>file:/C:/Users/Omar/Documents/NetBeansProjects/CommandPattern/</file>
+            <file>file:/C:/Users/Omar/Documents/NetBeansProjects/CommandPattern/src/commandpattern/CommandPattern.java</file>
+            <file>file:/C:/Users/Omar/Documents/NetBeansProjects/CommandPattern/src/commandpattern/IncreaseVolumeCommand.java</file>
+            <file>file:/C:/Users/Omar/Documents/NetBeansProjects/CommandPattern/src/commandpattern/Television.java</file>
+            <file>file:/C:/Users/Omar/Documents/NetBeansProjects/CommandPattern/src/commandpattern/TurnOffCommand.java</file>
+            <file>file:/C:/Users/Omar/Documents/NetBeansProjects/CommandPattern/src/commandpattern/RemoteControl.java</file>
+            <file>file:/C:/Users/Omar/Documents/NetBeansProjects/CommandPattern/src/commandpattern/DecreaseVolumeCommand.java</file>
+        </group>
+    </open-files>
+</project-private>
